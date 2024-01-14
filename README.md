@@ -8,7 +8,7 @@ Directional Controls: Use 'W', 'A', 'S', 'D' to control the snake's direction (u
 Game Termination: Press 'X' to stop the game at any time.<br>
 Score Tracking: The score is displayed on the screen, incremented each time the snake consumes food.<br>
 <br>
-## How to Play<br>
+ How to Play<br>
 Clone the repository to your local machine.<br>
 Compile the code using a C++ compiler compatible with your system.<br>
 Run the compiled executable.<br>
