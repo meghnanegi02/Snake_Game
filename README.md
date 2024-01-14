@@ -16,6 +16,8 @@ Compile the code using a C++ compiler compatible with your system.<br>
 Run the compiled executable.<br>
 Use 'W', 'A', 'S', 'D' to control the snake's direction.<br>
 Press 'X' to exit the game.<br>
+<br>
+<br>
 Screenshots<br>
 <img width="962" alt="ss" src="https://github.com/meghnanegi02/Snake_Game/assets/122456280/51ad7951-24f5-4a81-bea6-56cc0c18c052">
 <br>
