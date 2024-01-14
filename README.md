@@ -26,3 +26,11 @@ Windows API: Used for keyboard input and screen clearing.
 Compilation
 <br>
 Compile the code using a C++ compiler. For example:<br>
+g++ snake_game.cpp -o snake_game.exe
+<br><br><br>
+Acknowledgments<br>
+This Snake Game in C++ was created by Meghna Negi.
+<br><br><br>
+License<br>
+This project is licensed under the MIT License - see the LICENSE file for details.
+
